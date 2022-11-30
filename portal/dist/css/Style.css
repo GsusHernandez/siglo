@@ -1,0 +1,11 @@
+section.content {
+	clear: both !important;
+}
+
+@media (max-width: 800px) { 
+
+}
+
+@media (min-width: 800px) { 
+	
+}

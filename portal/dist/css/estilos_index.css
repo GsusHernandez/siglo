@@ -1,0 +1,6 @@
+#login-img{
+	background-image: url("../img/imagenes_login/fondo_login2.jpg");
+	/*background-repeat: no-repeat;  */
+	background-size:100vw 100vh;
+	background-attachment: fixed;
+}
